@@ -1,5 +1,7 @@
 ![visual-studio](https://user-images.githubusercontent.com/8418700/141210659-39697c76-fb68-4f3f-a5de-302e1376f582.png)
 
+## Microsoft Visual Studio 2022
+
 * [CodeMaid VS2022](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaidVS2022)
 * [EF Core Power Tools](https://marketplace.visualstudio.com/items?itemName=ErikEJ.EFCorePowerTools)
 * [EntityFramework Reverse POCO Generator](https://marketplace.visualstudio.com/items?itemName=SimonHughes.EntityFrameworkReversePOCOGenerator)
