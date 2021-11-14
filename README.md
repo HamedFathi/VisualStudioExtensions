@@ -11,7 +11,9 @@
 * [JavaScript Snippet Pack](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.JavaScriptSnippetPack)
 * [Rename variable after type](https://marketplace.visualstudio.com/items?itemName=NeVeS.RenameVariableAfterType)
 * [ResXManager](https://marketplace.visualstudio.com/items?itemName=TomEnglert.ResXManager)
+* [Roslynator 2022](https://marketplace.visualstudio.com/items?itemName=josefpihrt.Roslynator2022)
 * [SQLite and SQL Server Compact Toolbox](https://marketplace.visualstudio.com/items?itemName=ErikEJ.SQLServerCompactSQLiteToolbox)
+* [SpecFlow for Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=TechTalkSpecFlowTeam.SpecFlowForVisualStudio2022)
 * [WebPack Task Runner](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebPackTaskRunner)
 
 <hr/>
