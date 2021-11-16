@@ -7,6 +7,7 @@
 * [ConfigureAwaitEnforcer_VS2022](https://marketplace.visualstudio.com/items?itemName=Rene-Stein.ConfigureAwaitEnforcer2022)
 * [EF Core Power Tools](https://marketplace.visualstudio.com/items?itemName=ErikEJ.EFCorePowerTools)
 * [EntityFramework Reverse POCO Generator](https://marketplace.visualstudio.com/items?itemName=SimonHughes.EntityFrameworkReversePOCOGenerator)
+* [Extensibility Essentials 2022](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ExtensibilityEssentials2022)
 * [File Icons](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)
 * [HTML Snippet Pack](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.HTMLSnippetPack)
 * [Introduce parameter object](https://marketplace.visualstudio.com/items?itemName=NeVeS.IntroduceParameterObject)
